@@ -1,4 +1,4 @@
-<h2 align="center">AutoScript Install SSH & OpenVPN For Debian VPS By KingKongVPN <img src="https://img.shields.io/badge/Version-2.0.4-blue.svg"></h2>
+<h2 align="center">AutoScript Install SSH & OpenVPN For Debian VPS By kiplymacho <img src="https://img.shields.io/badge/Version-2.0.4-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -56,5 +56,5 @@ wget https://raw.githubusercontent.com/xiihaiqal/AutoScriptVPS/master/AutoScript
 * John Ford
 * _Dreyannz_
 
-## Donations :  <a href="https://paypal.me/kingkongvpn" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=paypal&label=Paypal&message=Click%20Here&color=blue"></a>
+## Donations :  <a href="https://paypal.me/kiplymacho" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=paypal&label=Paypal&message=Click%20Here&color=blue"></a>
 
