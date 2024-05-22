@@ -1,4 +1,7 @@
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Channel+YouTube+@km7ujuh" />
+</p>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=K+I+P+L+Y+M+A+C+H+O" />
 </p>
 <h2 align="center">AutoScript Install SSH & OpenVPN For Debian VPS By kiplymacho <img src="https://img.shields.io/badge/Version-2.0.4-blue.svg"></h2>
